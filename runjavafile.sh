@@ -1,0 +1,2 @@
+javac -d out/production/EismoSistema src/com/ecohub/*.java src/com/ecohub/road_users/* src/com/ecohub/exceptions/*  src/com/ecohub/application_essentials/* src/com/ecohub/window/* src/com/ecohub/utils/*
+java -cp out/production/EismoSistema com.ecohub.Launcher
